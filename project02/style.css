@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav.navbar {
+    background-color: #262626 !important;
+}
+
+.navbar-brand, .nav-item a.active, .nav-item a:hover {
+    color: #fff !important;
+}
+.nav-item a {
+    color: #ffffff88;
+}
+
+.navbar-toggler {
+    border: 3px solid rgba(204, 202, 202, 0.295);
+    color: #fff;
+}
+
+footer {
+    background-color: #262626;
+}
